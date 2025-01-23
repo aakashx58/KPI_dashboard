@@ -134,4 +134,4 @@ Below is the organized folder structure of the project for scalability and maint
 
 ## 🧑‍💻A Author
 
-VidApp is Developed by [Aakash](https://aakashrajbanshi.com.np/)
+KPIs is Developed by [Aakash](https://aakashrajbanshi.com.np/)
